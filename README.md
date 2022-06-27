@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirantan Banik</h1>
-<h3 align="center"> Currently a second-year Undergrad at Sikkim Manipal Institute of Technology pursuing B.Tech in CSE. I'm the type of person who enjoys trying new    things and taking on new challenges. A passionate Developer who loves to Solve Real life Problems through Coding.</h3>
+<h3 align="center"> Currently a second-year Undergrad at Sikkim Manipal Institute of Technology pursuing B.Tech in CSE. I'm the type of person who enjoys trying new    things and taking on new challenges. A passionate Developer who loves to Solve Real life Problems through Coding. Apart from Technology I am interested in Content Creation, reading growth books and listening to stories of Indian Armed Forces.</h3>
 
 - 🔭 I’m currently working on Improving my skills and Building Myself. 
 - 🌱 I’m currently learning Full stack Development and Data Structures and Algorithms using C++ 
