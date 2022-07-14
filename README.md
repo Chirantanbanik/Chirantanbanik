@@ -15,9 +15,9 @@
 <a href="https://twitter.com/chirantan_banik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chirantan_banik" height="30" width="40" /></a>
 <a href="https://instagram.com/banik_chirantan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banik_chirantan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chirantanbanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chirantanbanik/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chirantanbanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chirantanbanik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCC2ZF0GP5h2vaX8Q5vHIaBw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucc2zf0gp5h2vax8q5vhiabw" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chirantanbanik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chirantanbanik" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/chirantanbanik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chirantanbanik" height="30" width="40" /></a><br><br>
+My Content Creation Channel <a href="https://www.youtube.com/c/chirantanbanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chirantanbanik" height="30" width="40" /></a><br>
+My Coding Channel <a href="https://www.youtube.com/channel/UCC2ZF0GP5h2vaX8Q5vHIaBw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucc2zf0gp5h2vax8q5vhiabw" height="30" width="40" /></a>
 </p>
 
 
